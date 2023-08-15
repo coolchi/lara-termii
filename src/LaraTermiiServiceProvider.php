@@ -1,6 +1,6 @@
 <?php
 
-namespace Zeevx\LaraTermii;
+namespaceCoolchi\LaraTermii;
 
 use Illuminate\Support\ServiceProvider;
 

@@ -1,6 +1,6 @@
 <?php
 
-namespaceCoolchi\LaraTermii;
+namespace Coolchi\LaraTermii;
 
 use Illuminate\Support\Facades\Facade;
 
